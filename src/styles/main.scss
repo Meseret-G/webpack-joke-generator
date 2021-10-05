@@ -1,2 +1,26 @@
 @import "~@fortawesome/fontawesome-free/css/all.min.css";
 @import "~bootstrap/scss/bootstrap";
+
+#main-container {
+    
+    margin: auto;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: 80px;
+    margin-right: 80px;
+    height: 800px;
+    width: 700px;
+    border-radius: 10px;
+    background-color: gray;
+    padding: 40px;
+    text-align: center;
+    color: white;
+   
+}
+body {
+    background-color: black;
+}
+
+.btn {
+  background-color: hotpink;
+}
